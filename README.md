@@ -1,6 +1,9 @@
 # Movie Industry Intelligence App
 
 An interactive Streamlit dashboard for exploring movie industry trends, financial performance, correlations, outliers, and business insights from a movie dataset covering 1980 to 2020.
+## Deployment
+
+The app is deployed on Streamlit Community Cloud and can be accessed [here](https://mp7v6nl9h9fnqx37uytp4i.streamlit.app/).
 
 This project converts notebook-based analysis into a clean app-like dashboard where users can filter data, view charts, compare genres, study profitability, and download reports.
 
